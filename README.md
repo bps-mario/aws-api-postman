@@ -1,2 +1,2 @@
 # aws-api-postman
-postman collections for aws projects
+postman collections for aws project
